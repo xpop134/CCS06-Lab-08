@@ -1,0 +1,17 @@
+{
+    "name": "JerielJocson/ccs06-Lab08",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeriel Irish V. Jocson",
+            "email": "jocson.jerielirish@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
