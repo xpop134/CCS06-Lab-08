@@ -1,5 +1,5 @@
 {
-    "name": "JerielJocson/ccs06-Lab08",
+    "name": "xpop134/ccs06-Lab08",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
